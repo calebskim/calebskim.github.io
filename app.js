@@ -9,7 +9,7 @@ const mobileMenu = () => {
 
 menu.addEventListener('click', mobileMenu);
 
-var mapList = ["a Lifelong Student", "a Developer", "a Military Brat", "a Passionate Hacker", "an Environmentalist"];
+var mapList = ["a Lifelong Student", "an Engineer", "a Military Brat", "a Passionate Hacker"];
 var time = 3000;
 var splitTime = 500;
 var i = 0;
